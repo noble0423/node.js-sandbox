@@ -2,7 +2,7 @@
   "name": "node.js-ta-activities-sandbox",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noble0423/node.js-sandbox/issues"
   },
-  "homepage": "https://github.com/noble0423/node.js-sandbox#readme"
+  "homepage": "https://github.com/noble0423/node.js-sandbox#readme",
+  "dependencies": {
+    "node": "^12.2.0"
+  }
 }
